@@ -5,3 +5,5 @@
 /Mvc/obj
 /src/IdentityServer/bin
 /src/IdentityServer/obj
+/src/Mvc/bin
+/src/Mvc/obj
