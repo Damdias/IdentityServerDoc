@@ -1,0 +1,7 @@
+/.vs
+/src/Api/obj
+/src/Api/bin
+/Mvc/bin
+/Mvc/obj
+/src/IdentityServer/bin
+/src/IdentityServer/obj
